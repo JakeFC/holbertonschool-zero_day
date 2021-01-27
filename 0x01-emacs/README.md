@@ -1,1 +1,1 @@
-This is my emacs test.
+emacs text editor
